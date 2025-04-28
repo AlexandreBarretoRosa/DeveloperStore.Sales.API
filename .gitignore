@@ -1,0 +1,7 @@
+# VS stuff
+**/.vs/
+.vs/
+
+# Build folders
+bin/
+obj/
